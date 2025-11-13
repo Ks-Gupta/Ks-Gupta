@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ks-Gupta
 - 👀 I’m interested in SPORTS AND EXPLORING WORLD
-- 🌱 I’m currently learning JAVA,PYTHON,DSA and Expolaring AI 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently Developing My skill in JAVA,DSA and Expolaring AI 
 - 📫 khushigupta3819@gmail.com
 
 <!---
